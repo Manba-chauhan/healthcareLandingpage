@@ -19,7 +19,7 @@ const Section6 = () => {
             <img src={profile3} alt="" className="relative -top-2 -left-1" />
           </div>
           <div className="w-2/6 relative top-20 max-md:w-full max-md:top-40 max-md:p-10">
-            <p className="text-black text-2xl font-normal ">
+            <p className="text-black text-2xl font-normal  max-sm:text-lg">
               “Healthycarely is an website and mobile app for you to feel better
               or get medical help. We offer you a 24/7 doctor service with no
               appointment needed”
