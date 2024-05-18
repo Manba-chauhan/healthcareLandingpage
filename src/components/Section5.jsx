@@ -13,9 +13,21 @@ const Section5 = () => {
         </h1>
 
         <div className=" grid grid-cols-3 gap-10  mt-20 max-md:grid-cols-1 max-md:px-10">
-          <SmallCard />
-          <SmallCard />
-          <SmallCard />
+          <SmallCard
+            price="900+"
+            heading=" Verified Specialist"
+            text=" Highly Verified"
+          />
+          <SmallCard
+            price="45000+"
+            heading="Happy Costumers"
+            text="Highly Performance"
+          />
+          <SmallCard
+            price="99.7 %"
+            heading="Positive Feedback"
+            text="Costumers Apporove"
+          />
         </div>
       </div>
     </div>
