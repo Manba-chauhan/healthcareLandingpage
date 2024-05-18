@@ -16,14 +16,15 @@ const Section4 = () => {
             />
           </div>
         </div>
-        <div className="flex-1  w-1/2  max-md:w-full max-md:mt-20">
+        <div className="flex-1  w-1/2  max-md:w-full max-md:mt-20 max-sm:w-full">
           <p className="text-blue-500 font-bold  text-sm mt-2 ">
             Fast Solution
           </p>
-          <h2 className="text-black font-bold text-4xl mt-4  w-11/12 max-md:w-full max-md:text-xl">
+          <h2 className="text-black font-bold text-4xl mt-4  lg:w-11/12 max-md:w-full 
+          max-md:text-xl">
             Make a schedule in advance with the available doctor{" "}
           </h2>
-          <p className="text-sm  font-medium text-gray-500  my-4  w-9/12 max-md:w-full">
+          <p className="text-sm  font-medium text-gray-500  my-4 lg:w-9/12 max-md:w-full max-sm:w-full">
             Healthcare is a very painful process, especially if you’re not
             taking care of your health and having regular check-ups.
             HealhtyCarely makes it easier for everyone to schedule a doctor’s
