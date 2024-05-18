@@ -4,7 +4,7 @@ import Button from './Button';
 
 const Section4 = () => {
   return (
-    <div className="flex justify-center items-center w-full  p-20 max-md:flex-col">
+    <div className="flex justify-center items-center w-full  p-20 max-md:flex-col max-md:p-5">
       <div className=" flex justify-between  items-center mt-20   space-x-4 max-md:flex-col-reverse ">
         <div className="flex-1 max-md:mt-10">
           <div className="">
