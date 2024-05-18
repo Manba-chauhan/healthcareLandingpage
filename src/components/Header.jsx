@@ -3,7 +3,7 @@ import Button from './Button';
 
 const Header = () => {
   return (
-    <div className="max-w-[1200px]  max-h-[50px] mx-auto bg-white my-5">
+    <div className="max-w-[1200px]  max-h-[50px] mx-auto bg-white my-5 max-sm:px-4">
       <div className="flex justify-between  items-center ">
         <div className="flex justify-between items-center gap-20">
           <h1 className="text-xl font-meduim  text-center">

@@ -4,7 +4,7 @@ import female from '../assets/img/female.png'
 
 const Section1 = () => {
   return (
-    <div className="max-w-[1400px]  max-h-[509px] mx-auto bg-white mt-32">
+    <div className="max-w-[1400px]  max-h-[509px] mx-auto bg-white mt-32 max-sm:p-4">
       <div className="max-w-[1200px]  max-h-[50px] mx-auto">
         <div className="flex space-y-40  space-x-80">
           <div className="w-1/2 max-md:w-11/12">
