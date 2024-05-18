@@ -14,7 +14,7 @@ const Section6 = () => {
           </p>
         </div>
         <div className="bg-blue-200 max-w-[1340px]  h-[350px] mt-10 flex justify-evenly max-md:flex-col-reverse max-md:justify-center">
-          <div className="w-[433px] h-[372px] border-blue-600 border-2
+          <div className="w-[433px] h-[372px] border-blue-600 border-2 max-md:w-[380px]
            relative top-10 max-md:left-20 max-md:top-40 max-sm:left-0">
             <img src={profile3} alt="" className="relative -top-2 -left-1" />
           </div>
